@@ -1,18 +1,14 @@
-How to run the Daily Expense Tracker System Project
-FIRST DOWNLOAD XAMPP
+PROJECT EXECUTION STEPS:
 
-"TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
- 
-Extract the file and copy "dets" folder
+1.	Download XAMPP
+2.	In xampp start, mysql and apache
+3.	 Extract the file and copy Daily-expense-tracking-system-main folder
+4.	Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+5.	 Open PHPMyAdmin (http://localhost/phpmyadmin)
+6.	 Create a database with name detsdb
+7.	 Import detsdb.sql file(given inside the Daily-expense-tracking-system-main folder)
+8.	Run the script http://localhost/miniproject (frontend)
+ Now user can register and login to website.
 
-Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-Create a database with name detsdb
-
-Import detsdb.sql file(given inside the zip package in SQL file folder)
-
-Run the script http://localhost/miniproject
 
  

@@ -1,4 +1,4 @@
-"FREE SOURCE CODE" How to run the Simple Daily Expense Tracker System Project
+How to run the Daily Expense Tracker System Project
 FIRST DOWNLOAD
 
 
